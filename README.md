@@ -1,4 +1,4 @@
-# Hi, I'm Mukul Rana 👋
+# Hi, I'm  Aditya Kandula 👋
 
 ### Full Stack Solution Architect | Distributed Systems | AI/RAG | Cloud Engineering
 
