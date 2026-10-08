@@ -289,12 +289,7 @@ Build for Maintainability
 - System observability
 - Scalable multi-tenant platforms
 
----
 
-## 📫 Connect With Me
-- 📧 Email: mukulraana@gmail.com
-
----
 
 ## ⚡ A Little More
 
