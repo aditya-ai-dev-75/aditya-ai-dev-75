@@ -20,33 +20,7 @@ My work spans backend engineering, full-stack development, distributed systems, 
 - 🧩 Building multi-tenant SaaS platforms and enterprise applications
 - 🔍 Interested in system performance, observability, reliability, and developer tooling
 
----
 
-## 💼 Professional Experience
-
-### 2018 – Present
-
-**Software Engineering → Senior Engineering → Solution Architecture**
-
-Over the years, I have worked across software development and architecture, progressing from application development to designing and owning complete systems.
-
-My experience includes:
-
-- Backend and API development
-- Full-stack application development
-- Database architecture and optimization
-- Distributed system design
-- Multi-tenant SaaS architecture
-- Cloud infrastructure and deployment
-- Security and access-control systems
-- Real-time communication systems
-- AI-powered applications
-- System performance and scalability
-- Technical architecture and engineering leadership
-
-> Detailed company names, roles, and dates can be added here to match my professional resume.
-
----
 
 ## 🛠️ Technical Stack
 
